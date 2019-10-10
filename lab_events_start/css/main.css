@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: Palatino;
+  color: white;
+}
+
+#form-wrapper {
+  display: flex;
+  align-items: center;
+  max-width: 900px;
+}
